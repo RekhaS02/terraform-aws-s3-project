@@ -1,4 +1,4 @@
-# Infrastructure is deployed on-demand to optimize cloud costs. See the code for implementation details
+### Infrastructure is deployed on-demand to optimize cloud costs. See the code for implementation details
 
 # AWS Static Website Hosting with Terraform 
 
