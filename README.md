@@ -1,4 +1,4 @@
-# AWS Static Website Hosting with Terraform 🚀
+# AWS Static Website Hosting with Terraform 
 
 This project automates the deployment of a static website on AWS using Terraform. It showcases how to use Infrastructure as Code (IaC) to create an S3 bucket, configure it for web hosting, and upload files in seconds.
 
